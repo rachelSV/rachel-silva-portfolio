@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/card-title-text/card-title-text.component.scss"],
+  "sourcesContent": [":host {\r\n    display: block;\r\n}"],
+  "mappings": "AAAA,MACI,QAAA",
+  "names": []
+}
